@@ -22,7 +22,7 @@ The data architecture is structured cleanly to handle relationships between team
 * **Description:** Provides a high-level summary of the tournament, tracking key metrics like total matches, total goals, and overall attendance.
 * **Key Highlights:** Displays tournament champion predictions and attendance trends across different stages.
 * **Screenshot:**
-![Overview](12.jpg)
+![Overview](12.png)
 
 ---
 
@@ -30,7 +30,7 @@ The data architecture is structured cleanly to handle relationships between team
 * **Description:** Focuses on the infrastructure and venue distribution across host countries (USA, Canada, Mexico).
 * **Key Highlights:** Features a map visualization using ArcGIS and a detailed breakdown of stadium capacities and attendance per venue.
 * **Screenshot:**
-![Stadiums](17.jpg)
+![Stadiums](17.png)
 
 ---
 
@@ -38,7 +38,7 @@ The data architecture is structured cleanly to handle relationships between team
 * **Description:** Tracks group stage standings and qualified teams performance.
 * **Key Highlights:** Monitors qualified teams count and shows detailed group-by-group metrics.
 * **Screenshot:**
-![Groups](14.jpg)
+![Groups](14.png)
 
 ---
 
@@ -46,7 +46,7 @@ The data architecture is structured cleanly to handle relationships between team
 * **Description:** Logs match details with temporal filters (Month, Day, Stage).
 * **Key Highlights:** Compares home wins, away wins, and draws alongside venue and fixture details.
 * **Screenshot:**
-![Matches](15.jpg)
+![Matches](15.png)
 
 ---
 
@@ -54,7 +54,7 @@ The data architecture is structured cleanly to handle relationships between team
 * **Description:** Highlights individual player performances and goalscoring leaderboards.
 * **Key Highlights:** Features top 10 goalscorers, position-based goal distributions, and player stats.
 * **Screenshot:**
-![Players](16.jpg)
+![Players](16.png)
 
 ---
 
