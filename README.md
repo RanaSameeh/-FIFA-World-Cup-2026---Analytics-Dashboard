@@ -2,34 +2,61 @@
 
 A comprehensive Business Intelligence dashboard analyzing the FIFA World Cup 2026 data, built using **Power BI**.
 
-## 📊 Dashboard Overview
-* **Overview Page:** General statistics including total matches, total goals, attendance by stage, and tournament champion prediction/results.
-* **Stadiums Analysis:** Capacity breakdown, geographical distribution using maps, and attendance per stadium.
-* **Groups Analysis:** Group standings, qualified teams tracking, and performance metrics.
-* **Matches Analysis:** Detailed match logs, home vs. away wins, and stage filters.
-* **Players Analysis:** Top 10 goalscorers leaderboard, position goals distribution, and player stats.
+---
+
+## 📊 Project Overview
+This project delivers a complete data analytics solution for the FIFA World Cup 2026, covering everything from high-level tournament statistics down to individual player performances, venue analysis, and group standings.
+
+---
 
 ## 🗄️ Data Modeling & Schema
-The data architecture is structured cleanly to handle relationships between teams, matches, stadiums, groups, and players:
+The data architecture is structured cleanly to handle relationships between teams, matches, stadiums, groups, and players using a robust relational schema:
 
 ![Data Model](18.png)
 
-## 📸 Dashboard Screenshots
+---
 
-### 1. Overview
+## 📸 Dashboard Sections & Detailed Breakdown
+
+### 1. Overview Page
+* **Description:** Provides a high-level summary of the tournament, tracking key metrics like total matches, total goals, and overall attendance.
+* **Key Highlights:** Displays tournament champion predictions and attendance trends across different stages.
+* **Screenshot:**
 ![Overview](12.jpg)
 
-### 2. Stadiums Analysis
+---
+
+### 2. Stadiums Analysis Page
+* **Description:** Focuses on the infrastructure and venue distribution across host countries (USA, Canada, Mexico).
+* **Key Highlights:** Features a map visualization using ArcGIS and a detailed breakdown of stadium capacities and attendance per venue.
+* **Screenshot:**
 ![Stadiums](17.jpg)
 
-### 3. Groups Analysis
+---
+
+### 3. Groups Analysis Page
+* **Description:** Tracks group stage standings and qualified teams performance.
+* **Key Highlights:** Monitors qualified teams count and shows detailed group-by-group metrics.
+* **Screenshot:**
 ![Groups](14.jpg)
 
-### 4. Matches Analysis
+---
+
+### 4. Matches Analysis Page
+* **Description:** Logs match details with temporal filters (Month, Day, Stage).
+* **Key Highlights:** Compares home wins, away wins, and draws alongside venue and fixture details.
+* **Screenshot:**
 ![Matches](15.jpg)
 
-### 5. Players Analysis
+---
+
+### 5. Players Analysis Page
+* **Description:** Highlights individual player performances and goalscoring leaderboards.
+* **Key Highlights:** Features top 10 goalscorers, position-based goal distributions, and player stats.
+* **Screenshot:**
 ![Players](16.jpg)
+
+---
 
 ## 🛠️ Tools & Technologies
 * **Power BI** (DAX, Power Query, Data Modeling)
