@@ -12,24 +12,24 @@ A comprehensive Business Intelligence dashboard analyzing the FIFA World Cup 202
 ## 🗄️ Data Modeling & Schema
 The data architecture is structured cleanly to handle relationships between teams, matches, stadiums, groups, and players:
 
-![Data Model](images/18.png)
+![Data Model](18.png)
 
 ## 📸 Dashboard Screenshots
 
 ### 1. Overview
-![Overview](images/12.jpg)
+![Overview](12.jpg)
 
 ### 2. Stadiums Analysis
-![Stadiums](images/17.jpg)
+![Stadiums](17.jpg)
 
 ### 3. Groups Analysis
-![Groups](images/14.jpg)
+![Groups](14.jpg)
 
 ### 4. Matches Analysis
-![Matches](images/15.jpg)
+![Matches](15.jpg)
 
 ### 5. Players Analysis
-![Players](images/16.jpg)
+![Players](16.jpg)
 
 ## 🛠️ Tools & Technologies
 * **Power BI** (DAX, Power Query, Data Modeling)
